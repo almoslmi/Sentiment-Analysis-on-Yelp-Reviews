@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Thu Jan 18 01:14:53 UTC 2018 Thread[Thread-2,5,main] Cleanup action starting
 java.sql.SQLException: Failed to start database 'metastore_db' with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@38cc2bdb, see the next exception for details.
 	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
@@ -3858,3 +3859,18 @@ ERROR XSDB6: Another instance of Derby may have already booted the database /hom
 	at java.lang.Thread.run(Thread.java:748)
 ============= end nested exception, level (2) ===========
 Cleanup action completed
+=======
+----------------------------------------------------------------
+Thu Jan 18 10:58:00 PST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0161-0aa2-8ae4-0000060dde70 
+on database directory /Users/Grace/Desktop/MSAN/MSAN697/sparkml-yelp-d.c./metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@3cb86d6d 
+Loaded from file:/usr/local/Cellar/apache-spark/2.2.0/libexec/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=/Users/Grace/Desktop/MSAN/MSAN697/sparkml-yelp-d.c.
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+>>>>>>> Stashed changes

@@ -10,6 +10,5 @@ The goal of the project is to:
 
 3) Deploy a data pipeline that automates the process of data storing, loading, querying, and modeling with SparkSQL and SparkML on various AWS instances.
 
-![Demo]
-(pics/wicked_spoon.png)
+![word_cloud_demo](/pics/wicked_spoon.png)
 

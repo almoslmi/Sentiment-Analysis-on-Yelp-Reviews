@@ -1,4 +1,4 @@
-# Prediction on Parking Availability in SF
+# Sentiment Analysis and Keyword Mining on Yelp Reviews
 
 This repo documents our work for the sentiment analysis and keyword mining on Yelp reviews. 
 
@@ -10,5 +10,6 @@ The goal of the project is to:
 
 3) Deploy a data pipeline that automates the process of data storing, loading, querying, and modeling with SparkSQL and SparkML on various AWS instances.
 
-[Demo](pics/wicked_spoon.png)
+![Demo]
+(pics/wicked_spoon.png)
 
